@@ -1,0 +1,30 @@
+{
+  "name": "parse-num",
+  "version": "0.0.0",
+  "description": "Parse, clean, remove formatting (unformat) numbers in strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exodusmovement/parse-num.git"
+  },
+  "keywords": [
+    "parse",
+    "clean",
+    "unformat",
+    "numbers",
+    "format",
+    "number",
+    "string",
+    "money",
+    "currency"
+  ],
+  "author": "JP Richardson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exodusmovement/parse-num/issues"
+  },
+  "homepage": "https://github.com/exodusmovement/parse-num#readme"
+}
