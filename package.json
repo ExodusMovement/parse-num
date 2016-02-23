@@ -4,7 +4,7 @@
   "description": "Parse, clean, remove formatting (unformat) numbers in strings.",
   "main": "index.js",
   "scripts": {
-    "test": "standard"
+    "test": "standard && ava --verbose"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,12 @@
   "bugs": {
     "url": "https://github.com/exodusmovement/parse-num/issues"
   },
-  "homepage": "https://github.com/exodusmovement/parse-num#readme"
+  "files": [
+    "index.js"
+  ],
+  "homepage": "https://github.com/exodusmovement/parse-num#readme",
+  "devDependencies": {
+    "ava": "0.12.x",
+    "standard": "6.x"
+  }
 }
