@@ -1,6 +1,6 @@
 {
   "name": "parse-num",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Parse, clean, remove formatting (unformat) numbers in strings.",
   "main": "index.js",
   "scripts": {
